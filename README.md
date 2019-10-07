@@ -1,2 +1,2 @@
 # Projeto04_Pagina_Dentista
-Protótipo Página da Dentista Dra. Fernanda Slovinski.
+Protótipo Responsivo da Página da Dentista e Dra. Fernanda Slovinski.
